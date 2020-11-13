@@ -1,10 +1,11 @@
 import React from 'react';
 import './RecommendedSection.css';
+import ScrollingMenu from './ScrollingMenu';
 
 function RecommendedSection() {
   return (
     <div className="recommendedSection">
-      <h4>Recommended Videos section</h4>
+      <ScrollingMenu />
     </div>
   );
 }
