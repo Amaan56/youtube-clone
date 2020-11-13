@@ -1,0 +1,44 @@
+.sidebarOption {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.sidebarOption > h4 {
+  flex: 1;
+  margin-left: 10px;
+  color: rgb(96 96 96);
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.sidebarOption__icon {
+  margin-right: 10px;
+  margin-left: 10px;
+  color: rgb(96 96 96);
+}
+
+.sidebarOption:hover {
+  background-color: #eeeeee;
+  cursor: pointer;
+}
+
+.sidebarOption:hover > .sidebarOption__icon {
+  color: red;
+}
+
+.sidebarOption:hover > h4 {
+  font-weight: bold;
+}
+
+.sidebarOption__active {
+  background-color: #e0e0e0;
+}
+
+.sidebarOption__active > .sidebarOption__icon {
+  color: red;
+}
+
+.sidebarOption__active > h4 {
+  font-weight: bold;
+}
