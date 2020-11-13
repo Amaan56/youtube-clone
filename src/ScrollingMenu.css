@@ -7,6 +7,7 @@
   overflow-y: hidden;
   width: 80vw;
   padding: 10px;
+  z-index: 100;
 }
 
 .scrollingmenu__container {
@@ -26,6 +27,7 @@
   white-space: nowrap;
   background-color: #eeeeee;
   font-weight: 450;
+  transition-duration: 0.5s ease-in-out;
 }
 
 .scrollingmenu__right {
@@ -33,6 +35,7 @@
   cursor: pointer;
   right: 0;
   z-index: 100;
+  padding: 10px;
 }
 
 .scrollingmenu__left {
@@ -40,4 +43,5 @@
   cursor: pointer;
   left: 0;
   z-index: 100;
+  padding: 10px;
 }
