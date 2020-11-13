@@ -27,3 +27,17 @@
   background-color: #eeeeee;
   font-weight: 450;
 }
+
+.scrollingmenu__right {
+  position: sticky;
+  cursor: pointer;
+  right: 0;
+  z-index: 100;
+}
+
+.scrollingmenu__left {
+  position: sticky;
+  cursor: pointer;
+  left: 0;
+  z-index: 100;
+}
