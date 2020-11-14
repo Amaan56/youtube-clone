@@ -1,12 +1,15 @@
 .videocard {
-  padding: 20px;
+  margin-bottom: 20px;
+  padding: 0;
+  margin-right: 0;
+  margin-left: 0;
 }
 .videocard__description {
   display: flex;
   align-items: center;
   margin-left: 10px;
   margin-top: 5px;
-  max-width: 360px;
+  max-width: 250px;
 }
 
 .videocard__avatar {
@@ -15,17 +18,19 @@
 
 .videocard__thumbnail {
   object-fit: contain;
-  width: 370px;
+  width: 265px;
+  height: 130px;
 }
 
 .videocard__info {
 }
 .videocard__info > h4 {
-  font-size: 18px;
+  font-size: 15px;
   font-weight: bold;
   margin-bottom: 5px;
 }
 
 .videocard__info > p {
   color: rgb(96 96 96);
+  font-size: 12px;
 }
