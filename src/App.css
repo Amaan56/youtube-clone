@@ -5,3 +5,7 @@
 .app__page {
   display: flex;
 }
+
+.app__search {
+  display: flex;
+}
