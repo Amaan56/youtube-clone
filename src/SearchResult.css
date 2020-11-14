@@ -1,3 +1,35 @@
 .searchresult {
   flex: 0.8;
+  background-color: #f9f9f9;
+  height: 90vh;
+}
+
+.searchresult > hr {
+  border: 0;
+  height: 1px;
+  background-color: lightgray;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 93%;
+}
+
+.searchresult__filter {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  padding-bottom: 0;
+  margin-left: 1rem;
+}
+
+.searchresult__filter > h4 {
+  margin-left: 10px;
+  color: rgb(96 96 96);
+  font-size: 15px;
+}
+
+.searchresult__filterIcon {
+  color: rgb(96 96 96);
+  font-size: 15px;
 }

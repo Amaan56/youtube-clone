@@ -13,11 +13,13 @@ function Header() {
     <div className="header">
       <div className="header__left">
         <MenuIcon style={{ color: '#5e5d5d' }} />
-        <img
-          className="header__leftLogo"
-          src="https://www.transparentpng.com/thumb/youtube-logo/hd-youtube-logo-image-5.png"
-          alt="Youtube logo"
-        />
+        <Link to="/">
+          <img
+            className="header__leftLogo"
+            src="https://www.transparentpng.com/thumb/youtube-logo/hd-youtube-logo-image-5.png"
+            alt="Youtube logo"
+          />
+        </Link>
       </div>
       <div className="header__input">
         <input type="text" placeholder="Search" />

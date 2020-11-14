@@ -121,9 +121,11 @@ function RecommendedSection() {
     <div className="recommendedSection">
       <ScrollingMenu />
       <div className="videoDetailsContainer">
-        {videoDetails.map((video) => {
+        {videoDetails.map((video, i) => {
           return (
             <VideoCard
+              key={igit add .
+              }
               thumbnail={video.thumbnail}
               avatar={video.avatar}
               title={video.title}
