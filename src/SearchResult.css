@@ -33,3 +33,13 @@
   color: rgb(96 96 96);
   font-size: 15px;
 }
+
+.searchresult_channelInfo {
+  display: flex;
+  align-items: center;
+}
+
+.searchresult_channelTitle {
+  display: flex;
+  align-items: center;
+}

@@ -7,7 +7,7 @@ function RecommendedSection() {
   const videoDetails = [
     {
       thumbnail:
-        'https://i.ytimg.com/an_webp/ltEpCT8ydiE/mqdefault_6s.webp?du=3000&sqp=CJPZvf0F&rs=AOn4CLC1ncx4Mr9XmqhcxcSl3MjnEvcUXQ',
+        'https://i.ytimg.com/an_webp/_L-UszPmy2A/mqdefault_6s.webp?du=3000&sqp=COC1wf0F&rs=AOn4CLCQfD5lcCJy9WnhNTdr6wHnPZwKjg',
       avatar:
         'https://yt3.ggpht.com/a-/AOh14Gjrkz-bV9ll4OR_m9M3xXEINuwhbBq30F4asg=s68-c-k-c0x00ffffff-no-rj-mo',
       title: 'How Paul Heyman fixed Roman Reigns',
@@ -17,7 +17,7 @@ function RecommendedSection() {
     },
     {
       thumbnail:
-        'https://i.ytimg.com/an_webp/ltEpCT8ydiE/mqdefault_6s.webp?du=3000&sqp=CJPZvf0F&rs=AOn4CLC1ncx4Mr9XmqhcxcSl3MjnEvcUXQ',
+        'https://i.ytimg.com/an_webp/_L-UszPmy2A/mqdefault_6s.webp?du=3000&sqp=COC1wf0F&rs=AOn4CLCQfD5lcCJy9WnhNTdr6wHnPZwKjg',
       avatar:
         'https://yt3.ggpht.com/a-/AOh14Gjrkz-bV9ll4OR_m9M3xXEINuwhbBq30F4asg=s68-c-k-c0x00ffffff-no-rj-mo',
       title: 'How Paul Heyman fixed Roman Reigns',
@@ -27,7 +27,7 @@ function RecommendedSection() {
     },
     {
       thumbnail:
-        'https://i.ytimg.com/an_webp/ltEpCT8ydiE/mqdefault_6s.webp?du=3000&sqp=CJPZvf0F&rs=AOn4CLC1ncx4Mr9XmqhcxcSl3MjnEvcUXQ',
+        'https://i.ytimg.com/an_webp/_L-UszPmy2A/mqdefault_6s.webp?du=3000&sqp=COC1wf0F&rs=AOn4CLCQfD5lcCJy9WnhNTdr6wHnPZwKjg',
       avatar:
         'https://yt3.ggpht.com/a-/AOh14Gjrkz-bV9ll4OR_m9M3xXEINuwhbBq30F4asg=s68-c-k-c0x00ffffff-no-rj-mo',
       title: 'How Paul Heyman fixed Roman Reigns',
@@ -37,7 +37,7 @@ function RecommendedSection() {
     },
     {
       thumbnail:
-        'https://i.ytimg.com/an_webp/ltEpCT8ydiE/mqdefault_6s.webp?du=3000&sqp=CJPZvf0F&rs=AOn4CLC1ncx4Mr9XmqhcxcSl3MjnEvcUXQ',
+        'https://i.ytimg.com/an_webp/_L-UszPmy2A/mqdefault_6s.webp?du=3000&sqp=COC1wf0F&rs=AOn4CLCQfD5lcCJy9WnhNTdr6wHnPZwKjg',
       avatar:
         'https://yt3.ggpht.com/a-/AOh14Gjrkz-bV9ll4OR_m9M3xXEINuwhbBq30F4asg=s68-c-k-c0x00ffffff-no-rj-mo',
       title: 'How Paul Heyman fixed Roman Reigns',
@@ -47,7 +47,7 @@ function RecommendedSection() {
     },
     {
       thumbnail:
-        'https://i.ytimg.com/an_webp/ltEpCT8ydiE/mqdefault_6s.webp?du=3000&sqp=CJPZvf0F&rs=AOn4CLC1ncx4Mr9XmqhcxcSl3MjnEvcUXQ',
+        'https://i.ytimg.com/an_webp/_L-UszPmy2A/mqdefault_6s.webp?du=3000&sqp=COC1wf0F&rs=AOn4CLCQfD5lcCJy9WnhNTdr6wHnPZwKjg',
       avatar:
         'https://yt3.ggpht.com/a-/AOh14Gjrkz-bV9ll4OR_m9M3xXEINuwhbBq30F4asg=s68-c-k-c0x00ffffff-no-rj-mo',
       title: 'How Paul Heyman fixed Roman Reigns',
@@ -57,7 +57,7 @@ function RecommendedSection() {
     },
     {
       thumbnail:
-        'https://i.ytimg.com/an_webp/ltEpCT8ydiE/mqdefault_6s.webp?du=3000&sqp=CJPZvf0F&rs=AOn4CLC1ncx4Mr9XmqhcxcSl3MjnEvcUXQ',
+        'https://i.ytimg.com/an_webp/_L-UszPmy2A/mqdefault_6s.webp?du=3000&sqp=COC1wf0F&rs=AOn4CLCQfD5lcCJy9WnhNTdr6wHnPZwKjg',
       avatar:
         'https://yt3.ggpht.com/a-/AOh14Gjrkz-bV9ll4OR_m9M3xXEINuwhbBq30F4asg=s68-c-k-c0x00ffffff-no-rj-mo',
       title: 'How Paul Heyman fixed Roman Reigns',
@@ -67,7 +67,7 @@ function RecommendedSection() {
     },
     {
       thumbnail:
-        'https://i.ytimg.com/an_webp/ltEpCT8ydiE/mqdefault_6s.webp?du=3000&sqp=CJPZvf0F&rs=AOn4CLC1ncx4Mr9XmqhcxcSl3MjnEvcUXQ',
+        'https://i.ytimg.com/an_webp/_L-UszPmy2A/mqdefault_6s.webp?du=3000&sqp=COC1wf0F&rs=AOn4CLCQfD5lcCJy9WnhNTdr6wHnPZwKjg',
       avatar:
         'https://yt3.ggpht.com/a-/AOh14Gjrkz-bV9ll4OR_m9M3xXEINuwhbBq30F4asg=s68-c-k-c0x00ffffff-no-rj-mo',
       title: 'How Paul Heyman fixed Roman Reigns',
@@ -77,7 +77,7 @@ function RecommendedSection() {
     },
     {
       thumbnail:
-        'https://i.ytimg.com/an_webp/ltEpCT8ydiE/mqdefault_6s.webp?du=3000&sqp=CJPZvf0F&rs=AOn4CLC1ncx4Mr9XmqhcxcSl3MjnEvcUXQ',
+        'https://i.ytimg.com/an_webp/_L-UszPmy2A/mqdefault_6s.webp?du=3000&sqp=COC1wf0F&rs=AOn4CLCQfD5lcCJy9WnhNTdr6wHnPZwKjg',
       avatar:
         'https://yt3.ggpht.com/a-/AOh14Gjrkz-bV9ll4OR_m9M3xXEINuwhbBq30F4asg=s68-c-k-c0x00ffffff-no-rj-mo',
       title: 'How Paul Heyman fixed Roman Reigns',
@@ -87,7 +87,7 @@ function RecommendedSection() {
     },
     {
       thumbnail:
-        'https://i.ytimg.com/an_webp/ltEpCT8ydiE/mqdefault_6s.webp?du=3000&sqp=CJPZvf0F&rs=AOn4CLC1ncx4Mr9XmqhcxcSl3MjnEvcUXQ',
+        'https://i.ytimg.com/an_webp/_L-UszPmy2A/mqdefault_6s.webp?du=3000&sqp=COC1wf0F&rs=AOn4CLCQfD5lcCJy9WnhNTdr6wHnPZwKjg',
       avatar:
         'https://yt3.ggpht.com/a-/AOh14Gjrkz-bV9ll4OR_m9M3xXEINuwhbBq30F4asg=s68-c-k-c0x00ffffff-no-rj-mo',
       title: 'How Paul Heyman fixed Roman Reigns',
@@ -97,7 +97,7 @@ function RecommendedSection() {
     },
     {
       thumbnail:
-        'https://i.ytimg.com/an_webp/ltEpCT8ydiE/mqdefault_6s.webp?du=3000&sqp=CJPZvf0F&rs=AOn4CLC1ncx4Mr9XmqhcxcSl3MjnEvcUXQ',
+        'https://i.ytimg.com/an_webp/_L-UszPmy2A/mqdefault_6s.webp?du=3000&sqp=COC1wf0F&rs=AOn4CLCQfD5lcCJy9WnhNTdr6wHnPZwKjg',
       avatar:
         'https://yt3.ggpht.com/a-/AOh14Gjrkz-bV9ll4OR_m9M3xXEINuwhbBq30F4asg=s68-c-k-c0x00ffffff-no-rj-mo',
       title: 'How Paul Heyman fixed Roman Reigns',
@@ -107,7 +107,7 @@ function RecommendedSection() {
     },
     {
       thumbnail:
-        'https://i.ytimg.com/an_webp/ltEpCT8ydiE/mqdefault_6s.webp?du=3000&sqp=CJPZvf0F&rs=AOn4CLC1ncx4Mr9XmqhcxcSl3MjnEvcUXQ',
+        'https://i.ytimg.com/an_webp/_L-UszPmy2A/mqdefault_6s.webp?du=3000&sqp=COC1wf0F&rs=AOn4CLCQfD5lcCJy9WnhNTdr6wHnPZwKjg',
       avatar:
         'https://yt3.ggpht.com/a-/AOh14Gjrkz-bV9ll4OR_m9M3xXEINuwhbBq30F4asg=s68-c-k-c0x00ffffff-no-rj-mo',
       title: 'How Paul Heyman fixed Roman Reigns',
@@ -124,8 +124,7 @@ function RecommendedSection() {
         {videoDetails.map((video, i) => {
           return (
             <VideoCard
-              key={igit add .
-              }
+              key={i}
               thumbnail={video.thumbnail}
               avatar={video.avatar}
               title={video.title}
