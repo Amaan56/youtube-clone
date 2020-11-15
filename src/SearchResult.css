@@ -15,12 +15,20 @@
   width: 93%;
 }
 
+.searchresult_channelImage {
+  border-radius: 50%;
+  height: 150px;
+  margin-left: 5rem;
+  margin-right: 5rem;
+}
+
 .searchresult__filter {
   display: flex;
   align-items: center;
   padding: 20px;
   padding-bottom: 0;
   margin-left: 1rem;
+  width: 93%;
 }
 
 .searchresult__filter > h4 {
@@ -34,12 +42,39 @@
   font-size: 15px;
 }
 
-.searchresult_channelInfo {
+.searchresult__channelInfo {
+  display: flex;
+  align-items: center;
+  padding: 15px;
+  justify-content: space-between;
+  width: 93%;
+}
+
+.searchresult__channelTitle {
   display: flex;
   align-items: center;
 }
 
-.searchresult_channelTitle {
-  display: flex;
-  align-items: center;
+.searchresult__channelDescription > p {
+  max-width: 500px;
+  font-size: 14px;
+  color: rgb(96 96 96);
+}
+
+.subscribeBtn {
+  text-transform: capitalize;
+  border: none;
+  padding: 10px;
+  font-size: 15px;
+  color: rgb(96 96 96);
+}
+
+.notificationIcon {
+  color: rgb(96 96 96);
+}
+
+.searchresult__channelTitle > .MuiSvgIcon-root {
+  color: rgb(96 96 96);
+  margin-left: 5px;
+  font-size: 14px;
 }

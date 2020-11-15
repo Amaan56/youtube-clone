@@ -12,15 +12,16 @@ function SearchResult() {
         <h4>FILTER</h4>
       </div>
       <hr />
-      <div className="searchresult_channelInfo">
+      <div className="searchresult__channelInfo">
         <img
           src="https://yt3.ggpht.com/a/AATXAJydjgDHqK3vz4iHkrPZjHSsjwh1aPsqOwxHCZ_ISA=s176-c-k-c0x00ffffff-no-rj-mo"
           alt="Clever Qazi"
+          className="searchresult_channelImage"
         />
-        <div className="searchresult_channelDescription">
-          <div className="searchresult_channelTitle">
+        <div className="searchresult__channelDescription">
+          <div className="searchresult__channelTitle">
             <h4>Clever Programmer</h4>
-            <VerifiedUserIcon />
+            <VerifiedUserIcon className="verifyIcon" />
           </div>
           <p>83K Subscribers • 490 videos</p>
           <p>
@@ -29,8 +30,8 @@ function SearchResult() {
             ...
           </p>
         </div>
-        <button>Subscribed</button>
-        <NotificationsActiveIcon />
+        <button className="subscribeBtn">SUBSCRIBED</button>
+        <NotificationsActiveIcon className="notificationIcon" />
       </div>
       <hr />
     </div>
