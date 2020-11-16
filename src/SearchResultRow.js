@@ -21,13 +21,13 @@ function SearchResultRow({
           {views} • {uploadDate}
         </p>
         <div className="searchresultrow__avatar">
-          <Avatar src={avatar} alt={title} />
+          <Avatar src={avatar} alt={title} className="avatarIcon" />
           <h4>{creator}</h4>
           <VerifiedUserIcon />
         </div>
         <p>{videoDescription}</p>
+        <a>New</a>
       </div>
-      <a>New</a>
     </div>
   );
 }

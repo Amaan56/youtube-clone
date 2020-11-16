@@ -1,7 +1,7 @@
 .searchresult {
   flex: 0.8;
   background-color: #f9f9f9;
-  height: 90vh;
+  height: 90%;
 }
 
 .searchresult > hr {
@@ -77,4 +77,8 @@
   color: rgb(96 96 96);
   margin-left: 5px;
   font-size: 14px;
+}
+
+.searchresult__container {
+  margin-left: 2rem;
 }

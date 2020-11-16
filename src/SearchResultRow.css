@@ -1,0 +1,59 @@
+.searchresultrow {
+  display: flex;
+  align-items: flex-start;
+  padding: 15px;
+}
+
+.searchresultrow__avatar {
+  display: flex;
+  align-items: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.searchresultrow__info {
+  margin-left: 1rem;
+}
+
+.searchresultrow__avatar > h4 {
+  color: rgb(96 96 96);
+  font-size: 14px;
+}
+
+.searchresultrow__avatar > .MuiSvgIcon-root {
+  color: rgb(96 96 96);
+  margin-left: 5px;
+  font-size: 14px;
+}
+
+/* .searchresultrow__avatar > .MuiAvatar-img {
+  height: 1px !important;
+  margin-right: 5px;
+} */
+
+.avatarIcon {
+  /* height: 30px !important;
+  width: 30px; */
+  margin-right: 5px;
+}
+
+.searchresultrow__info > h4 {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.searchresultrow__info > p {
+  color: rgb(96 96 96);
+  font-size: 15px;
+  margin-bottom: 5px;
+  width: 90%;
+}
+
+.searchresultrow__info > a {
+  color: rgb(96 96 96);
+  background-color: #e5e3e3;
+  font-size: 12px;
+  padding: 3px;
+  border-radius: 2px;
+  font-weight: 500;
+}
