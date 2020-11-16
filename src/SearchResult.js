@@ -34,6 +34,9 @@ function SearchResult() {
         <NotificationsActiveIcon className="notificationIcon" />
       </div>
       <hr />
+      <h4 style={{ padding: '20px', marginLeft: '1.5rem' }}>
+        Latest from Clever Programmer
+      </h4>
     </div>
   );
 }
